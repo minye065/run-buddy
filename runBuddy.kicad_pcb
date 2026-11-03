@@ -907,7 +907,7 @@
 			)
 		)
 	)
-	(footprint "a:QFN10_BMP581_BOS"
+	(footprint "BMP581:BMP581"
 		(layer "F.Cu")
 		(uuid "cae518af-1757-4b44-9dc6-fb2e0f6fa240")
 		(at 106 90)
@@ -924,7 +924,7 @@
 				)
 			)
 		)
-		(property "Value" "QFN10_BMP581_BOS"
+		(property "Value" "BMP581"
 			(at 1 -3 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1422,7 +1422,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "kicad-symbols:XCVR_LC29H"
+	(footprint "LC29H:LC29H"
 		(layer "F.Cu")
 		(uuid "e71d4bd9-90db-47f2-9789-2e67fc652c13")
 		(at 121 73)
@@ -1437,7 +1437,7 @@
 				)
 			)
 		)
-		(property "Value" "XCVR_LC29H"
+		(property "Value" "LC29H"
 			(at -1.25 9.885 0)
 			(layer "F.Fab")
 			(uuid "ff59f65b-a59e-4c89-8cb2-8e014e927dcd")
