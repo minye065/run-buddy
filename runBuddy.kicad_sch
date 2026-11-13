@@ -4473,7 +4473,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SW-TH_MSK12C02:BMI270"
+			(property "Footprint" "includes:BMI270"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4936,7 +4936,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SW-TH_MSK12C02:BMP581"
+			(property "Footprint" "includes:BMP581"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5266,7 +5266,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SW-TH_MSK12C02:LC29H"
+			(property "Footprint" "includes:LC29H"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7615,7 +7615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SW-TH_MSK12C02:BMP581"
+		(property "Footprint" "includes:BMP581"
 			(at 135.89 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9478,7 +9478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SW-TH_MSK12C02:AOTA-B2016"
+		(property "Footprint" "includes:AOTA-B2016"
 			(at 238.76 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -10753,7 +10753,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SW-TH_MSK12C02:BMI270"
+		(property "Footprint" "includes:BMI270"
 			(at 254 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -11325,7 +11325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SW-TH_MSK12C02:LC29H"
+		(property "Footprint" "includes:LC29H"
 			(at 162.56 82.55 0)
 			(hide yes)
 			(show_name no)
