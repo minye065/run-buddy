@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SW-TH_MSK12C02")(type "KiCad")(uri "${KIPRJMOD}/SW-TH_MSK12C02.kicad_sym")(options "")(descr "BMP581, BMI270, LC29H"))
+	(lib (name "includes")(type "KiCad")(uri "${KIPRJMOD}/includes.kicad_sym")(options "")(descr "HC125A, HP5354.A"))
+)
